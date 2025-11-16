@@ -1,6 +1,6 @@
 
 # Overview
-the Sales Case Study, including what was done, how the analysis was performed, the tools used, and the insights generated. The case study focused on evaluating daily sales performance for a retail product, comparing promotional vs non-promotional periods, and examining monthly trends—particularly January and November.
+the Sales Case Study, including what was done, how the analysis was performed, the tools used, and the insights generated. The case study focused on evaluating daily sales performance for a retail product, comparing promotional vs non-promotional periods, and examining monthly trends—particularly January 2016 and November 2016.
 
 
 # What Was Done
