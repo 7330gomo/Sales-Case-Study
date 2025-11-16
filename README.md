@@ -95,3 +95,9 @@ Quantity vs sales comparing January and November
 -This indicates that promotions are effective for this product.
 
 # Tools Used
+
+Data Analysis: SQL
+
+Visualization: Excel charts
+
+Reporting: PowerPoint
